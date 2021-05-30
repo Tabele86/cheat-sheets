@@ -9,5 +9,6 @@ A curated list of cheat sheets:
 - [React](react/REACT.md)
 - [TypeScript](typescript/TYPESCRIPT.md)
 - [Markdown](markdown/MARKDOWN.md)
+- [Python](python/PYTHON.md)
 - [Git](git/GIT.md)
 - [Vscode](vscode/VSCODE.md)
