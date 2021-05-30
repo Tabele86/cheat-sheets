@@ -12,3 +12,4 @@ A curated list of cheat sheets:
 - [Python](python/PYTHON.md)
 - [Git](git/GIT.md)
 - [Vscode](vscode/VSCODE.md)
+- [Vscode](debug/DEBUG.md)
