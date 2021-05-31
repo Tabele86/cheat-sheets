@@ -1,7 +1,7 @@
 # CSS3
 
-### Cascading Style Sheets###
-**Docs** ([mdn](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference) / [w3](https://www.w3schools.com/cssref/) )
+**Cascading Style Sheets** (
+Docs: [mdn](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference) / [w3](https://www.w3schools.com/cssref/) )
 
 
 ----
