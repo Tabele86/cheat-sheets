@@ -3,7 +3,7 @@
 | Title                          |Download |
 | ------------------------------ |---------|
 | **HTML5 Tag cheat sheet**      |         |
-| ![HTML5 Tag Cheat Sheet](https://raw.githubusercontent.com/Tabele86/cheat-sheets/html/images/html5-cheatsheet-preview.png "HTML5 Tag Cheat Sheet") |[PDF](https:/cheat-sheets/raw.githubusercontent.com/Tabele86/cheat-sheets/html/download/HTML5-cheat-sheet.pdf) |
+| ![HTML5 Tag Cheat Sheet](https://raw.githubusercontent.com/Tabele86/cheat-sheets/html/images/html5-cheatsheet-preview.png "HTML5 Tag Cheat Sheet") |[PDF](https://github.com/Tabele86/cheat-sheets/blob/main/html/download/HTML5-cheat-sheet.pdf) |
 |                                |         |
 | **HTML5 Canvas cheat sheet 1**   |         |
 | ![HTML5 Canvas Cheat Sheet](https://Tabele86/cheat-sheets/Frontend-Cheat-Sheets/html/images/html5-canvas-cheat-sheet-preview.png "Canvas Cheat Sheet") |  [PDF](https://raw.githubusercontent.com/Tabele86/cheat-sheets/html/download/HTML5_Canvas_Cheat_Sheet.pdf) |
