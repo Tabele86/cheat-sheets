@@ -7,7 +7,7 @@
 ----
 | Title                          |Download |
 | ------------------------------ |---------|
-| **SASS Cheat Sheet**   |         |
-| ![SASS Cheat Sheet]() |  [PDF](https://github.com/Tabele86/cheat-sheets/blob/main/css/bootstrap/v4/download/Bootstrap-Cheat-Sheet-websitesetup.org_.pdf) |
+| **Bootstrap Cheat Sheet**   |         |
+| ![Bootstrap Cheat Sheet]() |  [PDF](https://github.com/Tabele86/cheat-sheets/blob/main/css/bootstrap/v4/download/Bootstrap-Cheat-Sheet-websitesetup.org_.pdf) |
 |                                |         |
 **[☝ back to top](#bootstrap)**
