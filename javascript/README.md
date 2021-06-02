@@ -8,6 +8,10 @@
 * [Functions](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions)
 * [Arrays](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Arrays)
 * [Objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
+
+## Guides
+* [Awesome JS Learning](https://github.com/micromata/awesome-javascript-learning#awesome-javascript-learning--)
+* [Clean Code JS](https://github.com/ryanmcdermott/clean-code-javascript#clean-code-javascript)
 ----
 ## Cheat-sheets
 | Title                          |Download |
