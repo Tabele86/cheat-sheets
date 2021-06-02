@@ -29,5 +29,5 @@
 | ![HTML5 Element Flowchart]() |  [PDF](https://github.com/Tabele86/cheat-sheets/blob/main/javascript/download/javascript-quick-reference.pdf) |
 |                                |        |
 
-**[☝ back to top](#html)**
+**[☝ back to top](#javascript)**
 
