@@ -7,11 +7,14 @@ Docs: [mdn](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference) / [w3](h
 ----
 | Title                          |Download |
 | ------------------------------ |---------|
+| **Toptal CSS Cheat Sheet**   |    2016     |
+| ![CSS3 Cheat Sheet]() |  [PDF](https://github.com/Tabele86/cheat-sheets/blob/main/css/css3/download/css-cheat-sheet.pdf) |
+|                                |         |
 | **CSS3 Cheat Sheet**   |         |
-| ![CSS3 Cheat Sheet](https://Tabele86/cheat-sheets/Frontend-Cheat-Sheets/html/images/html5-canvas-cheat-sheet-preview.png "Canvas Cheat Sheet") |  [PDF](https://github.com/Tabele86/cheat-sheets/blob/main/css/css3/download/css3-cheat-sheet.pdf) |
+| ![CSS3 Cheat Sheet]() |  [PDF](https://github.com/Tabele86/cheat-sheets/blob/main/css/css3/download/css3-cheat-sheet.pdf) |
 |                                |         |
 | **Webkit Css3 Cheat Sheet** |            |
-| ![Webkit Css3 Cheat Sheet](https://raw.githubusercontent.com/Tabele86/cheat-sheets/html/images/html5-canvas-cheat-sheet.png "Canvas Cheat Sheet") | [PDF](https://github.com/Tabele86/cheat-sheets/blob/main/css/css3/download/webkit-css3-cheat-sheet.pdf) |
+| ![Webkit Css3 Cheat Sheet]() | [PDF](https://github.com/Tabele86/cheat-sheets/blob/main/css/css3/download/webkit-css3-cheat-sheet.pdf) |
 |                                |        |
 
 **[☝ back to top](#html)**
