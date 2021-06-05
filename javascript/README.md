@@ -12,6 +12,9 @@
 ## Guides
 * [Awesome JS Learning](https://github.com/micromata/awesome-javascript-learning#awesome-javascript-learning--)
 * [Clean Code JS](https://github.com/ryanmcdermott/clean-code-javascript#clean-code-javascript)
+
+## Links
+* [30 Awesome JS Projects](https://javascript30.com/)
 ----
 ## Cheat-sheets
 | Title                          |Download |
