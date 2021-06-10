@@ -19,7 +19,10 @@
 ## Cheat-sheets
 | Title                          |Download |
 | ------------------------------ |---------|
-| **Import Javascript into HTML**      |  2020       |
+| **LOOPS(Colt Steele)**      |  2020       |
+| ![LOOPS(Colt Steele)]() |[PDF](https://github.com/Tabele86/cheat-sheets/blob/main/javascript/download/Loops.pdf) |
+|                                |         |
+| **Methods & THIS(Colt Steele)**      |  2020       |
 | ![Methods & THIS(Colt Steele)]() |[PDF](https://github.com/Tabele86/cheat-sheets/blob/main/javascript/download/Objects%2C%2BMethods%2C%2B%26%2BThis.pdf) |
 |                                |         |
 | **Import Javascript into HTML**      |  2019       |
