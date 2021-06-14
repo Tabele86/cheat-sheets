@@ -14,9 +14,9 @@
 * [Clean Code JS](https://github.com/ryanmcdermott/clean-code-javascript#clean-code-javascript)
 
 ## Practice
-* leetcode
-* code wars
-* hacker rank
+* [LeetCode](https://leetcode.com/)
+* [CodeWars](https://www.codewars.com/)
+* [HackerRank](https://www.hackerrank.com/)
 
 ## Links
 * [30 Awesome JS Projects](https://javascript30.com/)
